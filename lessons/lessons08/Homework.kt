@@ -69,6 +69,7 @@ fun extractDateTime(log: String) {
     println("Дата: $date")
     println("Время: $time")
 }
+//....
 
 fun main() {
     val log = "Пользователь вошел в систему -> 2021-12-01 09:48:23"
